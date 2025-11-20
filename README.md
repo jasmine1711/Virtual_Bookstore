@@ -15,6 +15,18 @@
 
 [cite_start]The goal is to provide a seamless digital space for users to explore, search, select, and purchase books securely[cite: 26, 28].
 
+## 📸 Screenshots
+
+### 1. Home Page
+*The landing page featuring the hero section and featured books.*
+![Home Page](home.jpg)
+
+### 2. Book Catalog & Search
+*Users can search for books by title, author, or genre.*
+![Search Results](featured_books.jpg)
+![Book Details](Picture3.jpg)
+
+
 ## 🚀 Features
 
 * [cite_start]**User Management:** Secure registration (with hashed passwords) and authentication using Spring Security[cite: 30, 42].
@@ -77,7 +89,7 @@
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/virtual-bookstore.git](https://github.com/your-username/virtual-bookstore.git)
+    git clone [https://github.com/jasmine1711/Virtual_Bookstore.git](https://github.com/jasmine1711/Virtual_Bookstore.git)
     ```
 
 2.  [cite_start]**Navigate to the project directory:** [cite: 1905]
@@ -96,4 +108,11 @@
 
 
 ---
+## 📄 License
+Distributed under the MIT License. See LICENSE for more information.
+
+Developed with ❤️ by Tanushree Nayal
+
+---
+
 *© 2024 Virtual Bookstore. [cite_start]All rights reserved.* [cite: 1488]
