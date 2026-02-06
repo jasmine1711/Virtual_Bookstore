@@ -5,13 +5,10 @@
 ![Thymeleaf](https://img.shields.io/badge/Frontend-Thymeleaf-blue)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
-> [cite_start]**University:** DIT University [cite: 11]  
-> [cite_start]**Course:** Server-Side Engineering (CSF373) [cite: 9]  
-> [cite_start]**Project Type:** Mini Project [cite: 8]
 
 ## 📖 Introduction
 
-[cite_start]**The Virtual Bookstore** is a full-featured e-commerce web application developed using the Spring framework[cite: 25]. Traditional bookstores face limitations in accessibility and inventory. [cite_start]This project addresses those needs by creating a user-friendly virtual platform that provides both a wide selection and a curated, engaging shopping experience[cite: 22, 23].
+**The Virtual Bookstore** is a full-featured e-commerce web application developed using the Spring framework[cite: 25]. Traditional bookstores face limitations in accessibility and inventory. [cite_start]This project addresses those needs by creating a user-friendly virtual platform that provides both a wide selection and a curated, engaging shopping experience[cite: 22, 23].
 
 [cite_start]The goal is to provide a seamless digital space for users to explore, search, select, and purchase books securely[cite: 26, 28].
 
