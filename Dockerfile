@@ -21,4 +21,5 @@ RUN ./mvnw clean package -DskipTests
 
 EXPOSE 8080
 
-CMD ["java", "-jar", "target/*.jar"]
+# Updated CMD to match the finalName in pom.xml
+CMD ["java", "-jar", "target/app.jar"]
