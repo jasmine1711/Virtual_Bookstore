@@ -8,9 +8,9 @@
 
 ## 📖 Introduction
 
-**The Virtual Bookstore** is a full-featured e-commerce web application developed using the Spring framework[cite: 25]. Traditional bookstores face limitations in accessibility and inventory. [cite_start]This project addresses those needs by creating a user-friendly virtual platform that provides both a wide selection and a curated, engaging shopping experience[cite: 22, 23].
+**The Virtual Bookstore** is a full-featured e-commerce web application developed using the Spring framework. Traditional bookstores face limitations in accessibility and inventory. This project addresses those needs by creating a user-friendly virtual platform that provides both a wide selection and a curated, engaging shopping experience.
 
-[cite_start]The goal is to provide a seamless digital space for users to explore, search, select, and purchase books securely[cite: 26, 28].
+The goal is to provide a seamless digital space for users to explore, search, select, and purchase books securely.
 
 ## 📸 Screenshots
 
@@ -26,39 +26,38 @@
 
 ## 🚀 Features
 
-* [cite_start]**User Management:** Secure registration (with hashed passwords) and authentication using Spring Security[cite: 30, 42].
-* [cite_start]**Book Catalog:** Public browsing of book listings with cover images, descriptions, and pricing[cite: 43].
-* [cite_start]**Advanced Search:** Filter books by title, author, or genre[cite: 43].
-* [cite_start]**Shopping Cart:** Dynamic cart management allowing users to add items, update quantities, and view real-time totals[cite: 44, 45].
-* [cite_start]**Checkout Process:** A streamlined checkout simulation for confirming orders[cite: 46].
-* [cite_start]**Recommendation System:** Suggests books based on genre preferences and popularity[cite: 1025].
-* [cite_start]**Reviews & Ratings:** Users can leave ratings and textual reviews for books[cite: 776].
+* **User Management**: Secure registration (with hashed passwords) and authentication using Spring Security.
+* **Book Catalog**: Public browsing of book listings with cover images, descriptions, and pricing.
+* **Advanced Search**: Filter books by title, author, or genre.
+* **Shopping Cart**: Dynamic cart management allowing users to add items, update quantities, and view real-time totals.
+* **Checkout Process**: A streamlined checkout simulation for confirming orders.
+* **Recommendation System**: Suggests books based on genre preferences and popularity.
+* **Reviews & Ratings**: Users can leave ratings and textual reviews for books.
 
 ## 🛠️ Tech Stack
 
 | Category | Technology |
 | :--- | :--- |
-| **Backend** | [cite_start]Spring Boot 3 [cite: 53] |
-| **Web Framework** | [cite_start]Spring Web (MVC) [cite: 54] |
-| **Security** | [cite_start]Spring Security [cite: 55] |
-| **Database** | [cite_start]H2 (Dev) / PostgreSQL (Prod) [cite: 64, 65] |
-| **ORM** | [cite_start]Spring Data JPA [cite: 56] |
-| **Frontend** | [cite_start]Thymeleaf Template Engine [cite: 66] |
-| **Build Tool** | [cite_start]Maven [cite: 67] |
+| **Backend** | Spring Boot 3  |
+| **Web Framework** | Spring Web (MVC)  |
+| **Security** | Spring Security  |
+| **Database** | H2 (Dev) / PostgreSQL (Prod)|
+| **ORM** | Spring Data JPA |
+| **Frontend** | Thymeleaf Template Engine  |
+| **Build Tool** | Maven  |
 
 ## 🏗️ System Architecture
 
-[cite_start]The application follows a maintainable **n-tier architecture**[cite: 37, 70]:
-
-1.  [cite_start]**Controller Layer:** Handles HTTP requests and maps to views (e.g., `BookController`, `HomeController`)[cite: 71].
-2.  [cite_start]**Service Layer:** Contains business logic and transaction management (e.g., `BookService`, `CartService`)[cite: 72].
-3.  [cite_start]**Repository Layer:** Manages data persistence via Spring Data JPA interfaces[cite: 73].
+The application follows a maintainable **n-tier architecture**:
+1.  **Controller Layer:** Handles HTTP requests and maps to views (e.g., `BookController`, `HomeController`).
+2.  **Service Layer:** Contains business logic and transaction management (e.g., `BookService`, `CartService`).
+3.  **Repository Layer:** Manages data persistence via Spring Data JPA interfaces.
 
 ### Database Entities
-* [cite_start]**User:** Credentials and role management[cite: 76].
-* [cite_start]**Book:** Inventory details (ISBN, price, stock)[cite: 77].
-* [cite_start]**Order:** Transaction records and status[cite: 79].
-* [cite_start]**Review:** User feedback and ratings[cite: 111].
+* **User:** Credentials and role management.
+* **Book:** Inventory details (ISBN, price, stock).
+* **Order:** Transaction records and status.
+* **Review:** User feedback and ratings.
 
 ## 📸 Screenshots
 
@@ -112,4 +111,4 @@ Developed with ❤️ by Tanushree Nayal
 
 ---
 
-*© 2024 Virtual Bookstore. [cite_start]All rights reserved.* [cite: 1488]
+*© 2024 Virtual Bookstore. All rights reserved.*
